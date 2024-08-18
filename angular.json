@@ -19,6 +19,7 @@
 					"options": {
 						"outputPath": "dist/about",
 						"index": "src/index.html",
+            "baseHref": "/mfe-about/",
 						"polyfills": [
 							"zone.js"
 						],
